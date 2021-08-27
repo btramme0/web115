@@ -1,6 +1,7 @@
 header
 {
 	font-family: Blippo, fantasy;
+	text-align: center;
 }
 
 body
@@ -9,4 +10,10 @@ body
 	color: #4F4F23; 
 	background-color: #E2E2D5;
 	font-family: Luminari, fantasy;
+	text-align: center;
+}
+
+Footer
+{
+	text-align: center;
 }
