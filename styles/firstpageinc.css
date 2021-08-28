@@ -13,7 +13,12 @@ body
 	text-align: center;
 }
 
-Footer
+footer
 {
 	text-align: center;
+}
+
+footer a
+{
+	color:  #C04000
 }
