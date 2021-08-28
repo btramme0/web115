@@ -9,7 +9,7 @@ body
 {
 	font-size: large;
 	color: #6E5B53; 
-	background-color: #E5D4B9;
+	background-color: #E8DCB8;
 	font-family: Luminari, fantasy;
 	text-align: center;
 }
@@ -22,11 +22,6 @@ footer
 footer a
 {
 	color:  #4A0C00;
-}
-
-footer a h2
-{
-	font-family: Trattatello, fantasy;
 }
 
 q
