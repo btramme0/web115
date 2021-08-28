@@ -10,6 +10,12 @@ h1
 	color: 90766E;
 }
 
+h2
+{
+	font-family: Blippo, fantasy;
+	color: #90766eE;
+}
+
 body
 {
 	font-size: large;
@@ -17,6 +23,17 @@ body
 	background-color: #E8DCB8;
 	font-family: Luminari, fantasy;
 	text-align: center;
+}
+
+p
+{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+q
+{
+	font-style: italic; 
 }
 
 footer
@@ -29,13 +46,4 @@ footer a
 	color:  #4A0C00;
 }
 
-q
-{
-	font-style: italic; 
-}
 
-p
-{
-	margin-left: 25px;
-	margin-right: 25px;
-}
