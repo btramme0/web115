@@ -1,7 +1,9 @@
-header
+.header
 {
 	font-size: 36px;
 	text-align: center;
+	color: 90766E;
+	font-family: Blippo, fantasy;
 }
 
 h1
