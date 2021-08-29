@@ -6,6 +6,25 @@
 	font-family: Blippo, fantasy;
 }
 
+.navbar
+{
+	background-color: #2F4F4F;
+	overflow: hidden;
+	border-width: 10px 0;
+	border-style: solid;
+	border-color: #66CDAA;
+}
+
+.navbar a
+{
+	color: #4A0C00;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 45px;
+}
+
 h1
 {
 	font-family: Blippo, fantasy;
