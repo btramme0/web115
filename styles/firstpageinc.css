@@ -46,6 +46,12 @@ body
 	text-align: center;
 }
 
+body a
+{
+	font-family: Blippo, fantasy;
+	color: #805B5A;
+}
+
 p
 {
 	margin-left: 25px;
@@ -55,16 +61,6 @@ p
 q
 {
 	font-style: italic; 
-}
-
-a:link
-{
-	color: #805B5A;
-}
-
-a:visited
-{
-	color: #805B5A;
 }
 
 footer
