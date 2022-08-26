@@ -78,6 +78,11 @@ footer em
  color: #C58358;
 }
 
+ul
+{
+	text-align:center;
+}
+
 table, th, td
 {
 	font-size: 25px;  
