@@ -80,7 +80,12 @@ footer em
 
 ul
 {
-	text-align:center;
+	text-align: center;
+}
+
+li
+{
+	text-align: center;
 }
 
 table, th, td
