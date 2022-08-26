@@ -1,6 +1,7 @@
 body
 {
 	font-size: large; 
+	text-align: center;
 	color: #7D7D7D;
 	background-color: #66CDAA;
 	font-family: Tahoma, sans-serif;
@@ -78,15 +79,6 @@ footer em
  color: #C58358;
 }
 
-strong
-{
-	text-align: center;
-}
-
-li
-{
-	text-align: center;
-}
 
 table, th, td
 {
