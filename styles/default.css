@@ -137,7 +137,13 @@ q
 	font-family: Jazz LET, fantasy;
 	font-weight: 600;
 	color: # FFFAF0;
-	
+}
+
+.output
+{
+	font-family: Courier, monospace;
+	font-weight: 800;
+	color: #4B0082
 }
 
 a 
