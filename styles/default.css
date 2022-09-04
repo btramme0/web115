@@ -140,6 +140,13 @@ q
 	
 }
 
+.output
+{
+	font-family: Courier, monospace;
+	font-weight: 800;
+	color: #4B0082
+}
+
 a 
 { 
 	color: #B8860B;	
