@@ -132,6 +132,14 @@ q
   display: table;
 }
 
+.input
+{
+	font-family: Jazz LET, fantasy;
+	font-weight: 600;
+	color: # FFFAF0;
+	
+}
+
 a 
 { 
 	color: #B8860B;	
