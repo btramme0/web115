@@ -67,6 +67,7 @@ footer
 {
 	text-align: center;
 	text-decoration: none; 
+	text-size: large;
 }
 
 footer a
@@ -134,7 +135,7 @@ q
 
 .input
 {
-	font-family: Jazz LET, fantasy;
+	font-family: "Jazz LET", fantasy;
 	font-weight: 600;
 	color: #FFFAF0;
 }
