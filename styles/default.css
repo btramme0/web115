@@ -66,6 +66,7 @@ figcaption
 footer
 {
 	text-align: center;
+	text-decoration: none; 
 }
 
 footer a
@@ -109,7 +110,6 @@ table
 
 p
 {
-	text-align: center;
 	margin-left: 25px;
 	margin-right: 25px;
 }
