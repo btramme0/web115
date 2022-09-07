@@ -149,7 +149,8 @@ q
 
 a 
 { 
-	color: #B8860B;	
+	color: #B8860B;
+	text-decoration: none;
 }
 
 a:hover
