@@ -1,0 +1,161 @@
+body
+{
+	font-size: x-large; 
+	color: #7D7D7D;
+	background-color: #66CDAA;
+	font-family: Tahoma, sans-serif;
+	border: 8px solid FloralWhite;
+}
+
+header
+{
+	text-align: center;	
+}	
+
+nav
+{
+	display: block;
+	float: left;
+}
+
+
+.navbar
+{
+	background-color: #2F4F4F;
+	overflow: hidden;
+	border-width: 10px 0;
+	border-style: solid;
+	border-color: #66CDAA;
+}
+
+.navbar a
+{
+	color: #800000;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 45px;
+}
+
+h1, h2, h3
+{
+	text-align: center;
+}
+
+main a
+{
+	text-align: center; 
+}
+
+figure
+{
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px; 
+}	
+
+figcaption
+{
+	font-style: italic;
+}
+
+footer
+{
+	text-align: center;
+	text-decoration: none; 
+	font-size: large;
+	padding-top: 25px;
+}
+
+footer a
+{
+	color: #544a5f;
+}
+
+footer em
+{
+ color: #C58358;
+}
+
+table, th, td
+{
+	font-size: 25px;  
+	border: 8px solid #677685;
+	border-spacing: 5px;
+	padding: 5px;
+	width: 950px;
+}
+
+.expanded
+{
+	margin-bottom: 30px;
+}
+
+table
+{
+  margin-left: auto; 
+  margin-right: auto;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 47%;
+  padding: 5px;
+  text-align: center;
+  
+}
+
+p
+{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+q
+{
+	font-style: italic; 
+	text-align: center; 
+}
+.style
+{
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.row::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.input
+{
+	font-family: "Jazz LET", fantasy;
+	font-weight: 600;
+	color: #FFFAF0;
+}
+
+.output
+{
+	font-family: Courier, monospace;
+	font-weight: 800;
+	color: #4B0082;
+}
+
+a 
+{ 
+	color: #B8860B;
+	text-decoration: none;
+	font-size: large;
+}
+
+a:hover
+{
+	color: #FF00FF;
+}
