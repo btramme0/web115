@@ -7,7 +7,16 @@ body
 	border: 8px solid FloralWhite;
 }
 	
+body a
+{
+	text-size-adjust: 40px;
+	word-spacing: 10px;
+}
 
+.header
+{
+	text-align: center;
+}
 nav
 {
 	display: block;
