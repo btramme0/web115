@@ -6,11 +6,7 @@ body
 	font-family: Tahoma, sans-serif;
 	border: 8px solid FloralWhite;
 }
-
-header
-{
-	text-align: center;	
-}	
+	
 
 nav
 {
@@ -164,7 +160,8 @@ a:hover
 
 .toc
 {
-	font-size: xx-large;
+	text-decoration: none;
+	font-size: 45px;
 	font-weight: 800;
-	color: #483D8B;
+	color: #040114;
 }
