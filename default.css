@@ -6,11 +6,7 @@ body
 	font-family: Tahoma, sans-serif;
 	border: 8px solid FloralWhite;
 }
-
-header
-{
-	text-align: center;	
-}	
+	
 
 nav
 {
@@ -69,6 +65,7 @@ footer
 	text-decoration: none; 
 	font-size: large;
 	padding-top: 25px;
+	padding-bottom: 20px;
 }
 
 footer a
@@ -148,6 +145,7 @@ q
 	color: #4B0082;
 }
 
+
 a 
 { 
 	color: #B8860B;
@@ -158,4 +156,13 @@ a
 a:hover
 {
 	color: #FF00FF;
+}
+
+
+.toc
+{
+	text-decoration: none;
+	font-size: 45px;
+	font-weight: 800;
+	color: #040114;
 }
