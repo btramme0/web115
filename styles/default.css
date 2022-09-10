@@ -16,7 +16,7 @@ body a
 
 .header
 {
-	text-align: center;
+	margin: auto;
 }
 
 nav
@@ -105,8 +105,8 @@ table, th, td
 
 table
 {
-  margin-left: auto; 
-  margin-right: auto;
+  margin-left: 45; 
+  margin-right: 45;
   text-align: center;
 }
 
