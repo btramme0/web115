@@ -71,6 +71,30 @@ figcaption
 	font-style: italic;
 }
 
+.toc
+{
+	position: absolute;
+    top: 0;
+	right: 20;
+	font-size: 45px;
+	font-weight: 800;
+	color: #040114;
+	word-spacing: 10px;
+	padding: 55px;
+}
+
+body.toc
+{
+	position: absolute;
+    top: 0;
+	right: 20;
+	font-size: 45px;
+	font-weight: 800;
+	color: #040114;
+	word-spacing: 10px;
+	padding: 55px;
+}
+
 footer
 {
 	text-align: center;
@@ -86,10 +110,6 @@ footer a
 	color: #544a5f;
 }
 
-footer em
-{
- color: #C58358;
-}
 
 table, th, td
 {
@@ -171,27 +191,5 @@ a:hover
 	color: #FF00FF;
 }
 
-.toc
-{
-	position: absolute;
-    top: 0;
-	right: 20;
-	font-size: 45px;
-	font-weight: 800;
-	color: #040114;
-	word-spacing: 10px;
-	padding: 55px;
-}
 
-body.toc
-{
-	position: absolute;
-    top: 0;
-	right: 20;
-	font-size: 45px;
-	font-weight: 800;
-	color: #040114;
-	word-spacing: 10px;
-	padding: 55px;
-}
 
