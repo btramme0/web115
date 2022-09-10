@@ -68,7 +68,7 @@ footer
 	text-align: center;
 	text-decoration: none; 
 	font-size: large;
-	padding-top: 30px;
+	padding-top: 25px;
 }
 
 footer a
@@ -146,6 +146,13 @@ q
 	font-family: Courier, monospace;
 	font-weight: 800;
 	color: #4B0082;
+}
+
+.toc
+{
+	font-size: xx-large;
+	font-weight: 800;
+	color: #483D8B;
 }
 
 a 
