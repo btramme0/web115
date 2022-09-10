@@ -148,12 +148,6 @@ q
 	color: #4B0082;
 }
 
-.toc
-{
-	font-size: xx-large;
-	font-weight: 800;
-	color: #483D8B;
-}
 
 a 
 { 
@@ -165,4 +159,12 @@ a
 a:hover
 {
 	color: #FF00FF;
+}
+
+
+.toc
+{
+	font-size: xx-large;
+	font-weight: 800;
+	color: #483D8B;
 }
