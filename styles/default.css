@@ -10,7 +10,7 @@ body
 body a
 {
 	text-size-adjust: 40px;
-	word-spacing: 10px;
+	
 }
 
 .header
@@ -174,4 +174,5 @@ a:hover
 	font-size: 45px;
 	font-weight: 800;
 	color: #040114;
+	word-spacing: 10px;
 }
