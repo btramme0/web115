@@ -115,7 +115,7 @@ footer nav
 
 footer nav a
 {
-	margin: 0%;
+	margin-right: 50%;
 	text-align: center;
 	text-decoration: none; 
 	font-size: large;
@@ -127,7 +127,7 @@ footer a
 }
 
 .center
-	{text-align: :center;}
+	{text-align: center;}
 
 table, th, td
 {
