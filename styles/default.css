@@ -112,6 +112,13 @@ footer nav
 	font-size: large;
 }
 
+footer nav a
+{
+	text-align: center;
+	text-decoration: none; 
+	font-size: large;
+}
+
 footer a
 {
 	color: #544a5f;
