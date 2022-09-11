@@ -107,7 +107,7 @@ footer
 
 footer nav
 {
-	margin: 0%;
+	margin: 0% auto;
 	text-align: center;
 	text-decoration: none; 
 	font-size: large;
@@ -115,7 +115,6 @@ footer nav
 
 footer nav a
 {
-	margin-right: 50%;
 	text-align: center;
 	text-decoration: none; 
 	font-size: large;
