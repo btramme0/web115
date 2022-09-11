@@ -114,6 +114,7 @@ footer nav
 
 footer nav a
 {
+	margin: auto;
 	text-align: center;
 	text-decoration: none; 
 	font-size: large;
