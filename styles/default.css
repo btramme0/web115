@@ -10,9 +10,14 @@ body
 	
 body a
 {
-	text-size-adjust: 40px;
+	text-size-adjust: 40;
 	word-spacing: 5px;
 	
+}
+
+body p
+{
+	text-align: center;
 }
 
 .header
@@ -105,6 +110,7 @@ footer
 	margin: 35px;
 }
 
+/*find out why the alignment is off in the nav portion of the footer*/
 footer nav
 {
 	margin: 0% auto;
