@@ -3,7 +3,7 @@ function username()
   var mname = document.getElementById("last_name");
   var lname = document.getElementById("middle_initail");
   var welcome = (`Hello${fname}${mname}${lname}`)
-  document.getElementById("greeting").innerHtml = "welcome";
+  document.getElementById("greeting").innerHTML = "welcome";
 
 var question = prompt("How high would you like to count?");
 for (var i = 1; i < 125; i++);
