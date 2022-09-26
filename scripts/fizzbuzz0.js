@@ -1,6 +1,6 @@
 function username()
-  let fname = document.getElementById("first_name");
-  let mname = document.getElementById("last_name");
+  var fname = document.getElementById("first_name");
+  var mname = document.getElementById("last_name");
   var lname = document.getElementById("middle_initail");
   var welcome = (`Hello${fname}${mname}${lname}`)
   document.getElementById("greeting").innerHtml = "welcome";
