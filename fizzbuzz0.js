@@ -8,7 +8,7 @@ function username() {
   var counting = "";
   if (i % 3 == 0) {`${counting}New book`}
   if (i % 5 == 0) {`${counting}New  reading`}
-  document.getElementById("greeting").innerHTML = "welcome";
+;
 }
 
 function header() { 
@@ -16,4 +16,4 @@ function header() {
   var mname = document.getElementById("last_name").value;
   var lname = document.getElementById("middle_initail").value;
   document.getElementById("head").innerHTML = "welcome " + fname + " " + mname + " " + lname;
-};
+}
